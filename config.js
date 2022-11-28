@@ -59,8 +59,8 @@ global.thumb = fs.readFileSync('./media/image/papah.jpg')
 global.faall = fs.readFileSync('./media/image/menu.jpg')
 
 // Url
-global.mygit = 'https://github.com/FahriAdison'
-global.myyt = 'https://bit.ly/Papah-Chan'
+global.mygit = 'https://github.com/Erikgithubh'
+global.myyt = 'https://bit.ly/RikZ BOT'
 global.myytv = ''
 global.mygc = ""
 
