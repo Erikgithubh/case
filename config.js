@@ -67,7 +67,7 @@ global.mygc = ""
 // Engak Ngaruh, Belum Kepasang
 global.botname = 'RikZ BOT'
 global.akulaku = 'Bot By Rikz'
-global.ytname = 'YT PAPAH' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
+global.ytname = 'Erik' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
 let file = require.resolve(__filename)
